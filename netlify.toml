@@ -1,6 +1,0 @@
-[ build ]
- command = " npm run build "
- publikuj = " public/ "
-
-[[ plugins ]]
- pakiet = " @netlify/plugin-gatsby "
