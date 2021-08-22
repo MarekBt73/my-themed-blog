@@ -10,6 +10,7 @@
   },
   "license": "0BSD",
   "dependencies": {
+    "@netlify/plugin-gatsby": "^1.0.3",
     "gatsby": "^3.11.1",
     "gatsby-theme-blog": "^3.0.0",
     "react": "^17.0.2",
